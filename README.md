@@ -4,4 +4,4 @@ A segmented selection wheel control to let users choose an option out of multipl
 
 #Demo
 
-[Demo](https://zippy.gfycat.com/WholeIdleGavial.gif)
+![Demo](https://zippy.gfycat.com/WholeIdleGavial.gif)
